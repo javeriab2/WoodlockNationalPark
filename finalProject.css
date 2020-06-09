@@ -16,7 +16,7 @@ h1{padding-top: 25%;
 @font-face {
   font-family:myFont;
   
-  src:url("treelike/TreeLike.ttf");
+  src:url("TreeLike.ttf");
 }
 
 .navbar {
